@@ -1,0 +1,7 @@
+@media screen and (max-width: 479px) {
+  [role=tablist] button.nav-item {
+    margin-right: 0;
+    padding-left: 5px;
+    padding-right: 10px;
+  }
+}
